@@ -3,4 +3,5 @@
 *.scss linguist-vendored
 *.js linguist-vendored
 *.php linguist-vendored = false
+*.vsix linguist-vendored = false
 CHANGELOG.md export-ignore
