@@ -27,7 +27,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
              <ol>
         <li>Table name will be posts,</li>
         <li>Fields should be id, user_id, title, slug (should automatically unique when adding/edit), description, featured_image, and deleted_at(soft delete)</li>
-        <li>Generate a thumbnail image when uploading featured_image./li>
+                 <li>Generate a thumbnail image when uploading featured_image.</li>
         </ol> </li>
     <li>Create post tags (just like category)</li>
     <li>Create role and permissions module separately (please make sure don't use/install any third-party package):
