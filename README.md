@@ -14,7 +14,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## <h1>Laravel Developer profile at Cubedots Pvt. Ltd.</h1>
+## <h1>Laravel Developer
 <ul>
   <li>Install latest laravel 8.x version or higher</li>
   <li>Integrate Auth package create 3 users with the name:</li>
